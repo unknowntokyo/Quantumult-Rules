@@ -14,6 +14,7 @@ Name随意,URL地址填写为：https://raw.githubusercontent.com/unknowntokyo/Q
 点击save之后,左划刚刚添加的Filter,点击Append即可添加规则到本地
 
 区别：
+
 Quantumult.conf为轻量，我自己修改的
 
 lhie1.conf为lhie1的规则转换为Quantumult规则，引用源地址为：https://github.com/lhie1/Surge/blob/master/Shadowrocket.conf
