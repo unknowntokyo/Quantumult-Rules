@@ -8,7 +8,7 @@
 
 *****************************************************************************************************
 
-订阅RULE规则：打开Quantumult,点击Settings-Favorites-"右上角加号"-FILTER
+订阅RULE规则：打开Quantumult,点击Settings-Favorites-"右上角加号"-FILTER，FILTER ACTION一定要打开
 
 Name随意,URL地址填写为：https://raw.githubusercontent.com/unknowntokyo/Quantumult-Rules/master/Quantumult.conf  （后续不会做太大更新）
 
