@@ -20,10 +20,5 @@ Name随意,URL地址填写为：https://raw.githubusercontent.com/unknowntokyo/Q
 
 点击save之后,左划刚刚添加的Filter,点击Append即可添加规则到本地
 
-区别：
-
-Quantumult.conf为轻量，我自己修改的
-
-2017.8.4 添加：
-
-[MITM]-hostname 来自@lhie1的规则，引用源地址为：https://github.com/lhie1/Surge/blob/master/Hostname.conf
+HTTPS解密 hostname获取workflow:
+https://workflow.is/workflows/088e1797225c43a5834417e4cc9c5fc5
