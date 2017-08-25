@@ -10,13 +10,13 @@
 
 订阅RULE规则：打开Quantumult,点击Settings-Favorites-"右上角加号"-FILTER，FILTER ACTION一定要打开
 
-Name随意,URL地址填写为：https://raw.githubusercontent.com/unknowntokyo/Quantumult-Rules/master/Quantumult.conf  （后续不会做太大更新）
+Name随意,URL地址填写为：https://raw.githubusercontent.com/unknowntokyo/Quantumult-Rules/master/Quantumult.conf  （700条）
 
 或者URL地址填写为：https://raw.githubusercontent.com/lhie1/Surge/master/Quantumult.conf  (2017.7.24添加到@lhie1官方支持，同步更新)
 
 订阅URL-REJECTION规则：打开Quantumult,点击Settings-Favorites-"右上角加号"-URL-REJECTION
 
-添加URL地址为：https://raw.githubusercontent.com/unknowntokyo/Quantumult-Rules/master/URL-REJECTION.conf
+添加URL地址为：https://raw.githubusercontent.com/lhie1/Surge/master/URL_REJECT.conf
 
 点击save之后,左划刚刚添加的Filter,点击Append即可添加规则到本地
 
