@@ -12,11 +12,11 @@
 
 Name随意,URL地址填写为：https://raw.githubusercontent.com/unknowntokyo/Quantumult-Rules/master/Quantumult.conf  （700条）
 
-或者URL地址填写为：https://raw.githubusercontent.com/lhie1/Surge/master/Surge_Lite.conf  lhie1规则
+或者URL地址填写为：https://raw.githubusercontent.com/lhie1/Surge/master/Surge_Lite.conf      lhie1规则
 
 订阅URL-REJECTION规则：打开Quantumult,点击Settings-Favorites-"右上角加号"-URL-REJECTION
 
-添加URL地址为：https://raw.githubusercontent.com/lhie1/Surge/master/URL_REJECT.conf     lhie1规则
+添加URL地址为：https://raw.githubusercontent.com/lhie1/Surge/master/URL_REJECT.conf      lhie1规则
 
 点击save之后,左划刚刚添加的Filter,点击Append即可添加规则到本地
 
