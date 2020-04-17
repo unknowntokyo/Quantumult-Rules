@@ -18,7 +18,7 @@ Name随意,URL地址填写为：https://raw.githubusercontent.com/unknowntokyo/Q
 
 添加URL地址为：https://raw.githubusercontent.com/lhie1/Surge/master/URL_REJECT.conf      lhie1规则
 
-点击save之后,左划刚刚添加的Filter,点击Append即可添加规则到本地
+点击save之后,左滑刚刚添加的Filter,点击Append即可添加规则到本地
 
 HTTPS解密 hostname获取workflow:
 https://workflow.is/workflows/088e1797225c43a5834417e4cc9c5fc5
